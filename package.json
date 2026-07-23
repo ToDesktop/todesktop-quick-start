@@ -6,8 +6,8 @@
   "main": "main.js",
   "homepage": "https://todesktop.com",
   "scripts": {
-    "release": "todesktop release .",
-    "build": "todesktop build .",
+    "release": "todesktop release --latest",
+    "build": "todesktop build",
     "start": "electron ."
   },
   "author": "Your Name <info@example.com>",
